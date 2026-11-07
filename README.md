@@ -2,7 +2,7 @@
 
 Список задач с тегами, сроками и ручным порядком.
 
-[Открыть приложение](https://denis-zag.gitverse.site/react-taskline/) · [Исходное объявление](https://www.weblancer.net/freelance/veb-programmirovanie-31/react-prilozhenie-todo-list-1137418/)
+[Открыть приложение на Netlify](https://denis-zag-react-taskline.netlify.app/) · [Исходное объявление](https://www.weblancer.net/freelance/veb-programmirovanie-31/react-prilozhenie-todo-list-1137418/)
 
 ## Возможности
 
