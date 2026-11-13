@@ -2,7 +2,9 @@
 
 Список задач с тегами, сроками и ручным порядком.
 
-[Открыть приложение на Netlify](https://denis-zag-react-taskline.netlify.app/) · [Исходное объявление](https://www.weblancer.net/freelance/veb-programmirovanie-31/react-prilozhenie-todo-list-1137418/)
+Рабочий сайт: https://denis-zag-react-taskline.netlify.app/
+
+Исходное объявление: https://www.weblancer.net/freelance/veb-programmirovanie-31/react-prilozhenie-todo-list-1137418/
 
 ## Возможности
 
@@ -42,12 +44,4 @@ npm test
 
 ## Публикация
 
-Готовую папку `public/` можно загрузить как отдельный проект через [Netlify Drop](https://app.netlify.com/drop). В корне папки находится `index.html`. [Инструкция по запуску и передаче](info/DEPLOY.md).
-
-## Границы кейса
-
-Объявление завершено. По исходному заказу приложение запускается локально; публичный учебный стенд добавлен для домашнего задания. Таймер — отсчёт до срока на открытой странице; серверные уведомления не входят в описание.
-
-Бюджет объявления: 100 USD. Моя предварительная оценка аналогичной разработки: 12 000 ₽. Это не оплата за выполненный заказ. С заказчиком не связывался, приёмку и согласование не проводил.
-
-Материалы: info/TZ.md, SOURCE.md, PROMPTS.md.
+Рабочий сайт: https://denis-zag-react-taskline.netlify.app/
